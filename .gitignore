@@ -1,0 +1,11 @@
+# Generated databases and scraper logs
+
+/logs/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
